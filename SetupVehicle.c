@@ -19,11 +19,10 @@ class CreateVehicle
 
 		// vehicle.GetInventory().CreateAttachment("HatchbackWheel");
 		// vehicle.GetInventory().CreateAttachment("HatchbackWheel");
-		vehicle.GetInventory().CreateAttachment("HatchbackWheel");
-		vehicle.GetInventory().CreateAttachment("HatchbackWheel");
-
-		vehicle.GetInventory().CreateAttachment("CarBattery");
-		vehicle.GetInventory().CreateAttachment("SparkPlug");
+		// vehicle.GetInventory().CreateAttachment("HatchbackWheel");
+		// vehicle.GetInventory().CreateAttachment("HatchbackWheel");
+		// vehicle.GetInventory().CreateAttachment("CarBattery");
+		// vehicle.GetInventory().CreateAttachment("SparkPlug");
 
 	}
 }
